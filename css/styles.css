@@ -1,0 +1,22 @@
+.hero > h1 {
+    color: red;
+}
+.principles > ul > li > p {
+    color: green;
+}
+.principles p {
+background-color: yellow;
+}
+.principles .title {
+    background-color: black;
+}
+.principles .descr {
+    background-color: green;
+}
+.principles .item {
+    background-color: gray;
+}
+.principles p {
+    background-color: rgba(176, 28, 28, 0.1) ;
+}
+
